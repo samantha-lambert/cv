@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    display: flex;
+
+}
+h1
+{
+    font-size: 25px;
+}
+article{
+    font-size: 12px;
+    background-color: rgba(0, 115, 255, 0.652);
+    width:50%;
+    height: 100%;
+}
+img{
+    width: 100px;
+    float: left;
+    shape-outside: margin-box;
+    margin: 0px 5px 5px 6px;
+    border-radius:50%;
+}
+.details{
+  
+
+
+}
+
+br{line-break: 5px;}
+.exp{
+    margin-left: 10px;
+    padding: 20px;
+    width: 50%;
+   
+}.stage{
+    padding: 25px;    
+    border: 1px solid black
+}
+.container
+{
+    display: flex;
+    width: 680px;
+    height: 980px;
+    margin:0 33% 0 33%;
+    border: 2px solid black;
+}
